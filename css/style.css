@@ -44,6 +44,10 @@ a{
 .main__nombre{
     color: var(--color-celeste);
 }
+.main__btn{
+    display: flex;
+    text-align: center;
+}
 .btn__contacto{
     margin-left: 1rem;
     padding: 2rem;
